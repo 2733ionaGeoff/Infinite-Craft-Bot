@@ -15,7 +15,6 @@ const puppeteer = require('puppeteer');
         console.log('No consent button found or error clicking it:', error);
     }
 
-    // Moved clickedCombinations outside to be persistent across resets
     let clickedCombinations = {};
 
     async function isElementClickable(item) {
@@ -50,19 +49,20 @@ const puppeteer = require('puppeteer');
                         const isClickableB = await isElementClickable(itemB);
 
                         if (isClickableA && isClickableB) {
+                            await page.waitForTimeout(50); // Delay before clicking itemA
                             await itemA.click();
+                            await page.waitForTimeout(50); // Delay before clicking itemB
                             await itemB.click();
                             clickedCombinations[combinationKey] = true;
                             newCombinationsFound = true;
                             console.log(`Clicked combination: ${combinationKey}`);
-                            // Add a delay or logic here to verify the combination results if necessary
                         }
                     }
                 }
             }
         }
 
-        return newCombinationsFound; // Indicate whether new combinations were found
+        return newCombinationsFound;
     }
 
     async function continuouslyClickNewItems() {

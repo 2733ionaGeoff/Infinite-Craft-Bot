@@ -1,5 +1,12 @@
 const puppeteer = require('puppeteer');
 
+// Define a custom delay function
+function delay(time) {
+    return new Promise(function(resolve) {
+        setTimeout(resolve, time);
+    });
+}
+
 (async () => {
     const browser = await puppeteer.launch({ headless: false });
     console.log('Browser opened');
@@ -49,9 +56,9 @@ const puppeteer = require('puppeteer');
                         const isClickableB = await isElementClickable(itemB);
 
                         if (isClickableA && isClickableB) {
-                            await page.waitForTimeout(50); // Delay before clicking itemA
+                            await delay(200); // Custom delay before clicking itemA
                             await itemA.click();
-                            await page.waitForTimeout(50); // Delay before clicking itemB
+                            await delay(200); // Custom delay before clicking itemB
                             await itemB.click();
                             clickedCombinations[combinationKey] = true;
                             newCombinationsFound = true;
@@ -71,7 +78,7 @@ const puppeteer = require('puppeteer');
             if (!foundNewCombinations) {
                 console.log('No new combinations found. Continuing to try...');
             }
-            await new Promise(resolve => setTimeout(resolve, 1000));
+            await delay(200);
         }
     }
 

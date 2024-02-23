@@ -5864,5 +5864,3141 @@
       "name": "Sandpunk",
       "emoji": "🏖"
     }
+  },
+  {
+    "combinationA": {
+      "name": "Sand",
+      "emoji": "🏖"
+    },
+    "combinationB": {
+      "name": "Venus Flytrap",
+      "emoji": "🪲"
+    },
+    "result": {
+      "name": "Sandtrap",
+      "emoji": "🏖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sand",
+      "emoji": "🏖"
+    },
+    "combinationB": {
+      "name": "Lotus",
+      "emoji": "🌺"
+    },
+    "result": {
+      "name": "Egypt",
+      "emoji": "🇪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "result": {
+      "name": "Snowman",
+      "emoji": "☃️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "result": {
+      "name": "Drunk",
+      "emoji": "🍺"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "result": {
+      "name": "Fruit",
+      "emoji": "🍇"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "result": {
+      "name": "Bonsai",
+      "emoji": "🌳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Seed",
+      "emoji": "🌱"
+    },
+    "result": {
+      "name": "Apple",
+      "emoji": "🍎"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steam Tree",
+      "emoji": "🌳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "result": {
+      "name": "Treehouse",
+      "emoji": "🏠"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Cinder",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Firewood",
+      "emoji": "🪵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Wish",
+      "emoji": "🌠"
+    },
+    "result": {
+      "name": "Money",
+      "emoji": "💵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Poseidon",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Trident",
+      "emoji": "🔱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Haunted Tree",
+      "emoji": "🌳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Fairy",
+      "emoji": "🧚"
+    },
+    "result": {
+      "name": "Dryad",
+      "emoji": "🌳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Buddha",
+      "emoji": "🧘"
+    },
+    "result": {
+      "name": "Bodhi",
+      "emoji": "🌳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Helicopter",
+      "emoji": "🚁"
+    },
+    "result": {
+      "name": "Woodpecker",
+      "emoji": "🪵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Saturn",
+      "emoji": "🪐"
+    },
+    "result": {
+      "name": "Christmas",
+      "emoji": "🎄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Fireworks",
+      "emoji": "🎆"
+    },
+    "result": {
+      "name": "Christmas Tree",
+      "emoji": "🎄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "result": {
+      "name": "Plantea",
+      "emoji": "🌱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "result": {
+      "name": "Snowball",
+      "emoji": "❄️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "result": {
+      "name": "Pluto",
+      "emoji": "🌌"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "result": {
+      "name": "Solar System",
+      "emoji": "🌌"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Dune",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Tatooine",
+      "emoji": "🌌"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Surfboard",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Uranus",
+      "emoji": "🌎"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Thunder",
+      "emoji": "⛈️"
+    },
+    "result": {
+      "name": "Jupiter",
+      "emoji": "🪐"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Helicopter",
+      "emoji": "🚁"
+    },
+    "result": {
+      "name": "UFO",
+      "emoji": "🛸"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Surf",
+      "emoji": "🏄"
+    },
+    "combinationB": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "result": {
+      "name": "Surf and Turf",
+      "emoji": "🍤"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Surf",
+      "emoji": "🏄"
+    },
+    "combinationB": {
+      "name": "Windmill",
+      "emoji": "🌬"
+    },
+    "result": {
+      "name": "Windsurfing",
+      "emoji": "🏄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Surf",
+      "emoji": "🏄"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steam Surf",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Surf",
+      "emoji": "🏄"
+    },
+    "combinationB": {
+      "name": "Fossil",
+      "emoji": "🦴"
+    },
+    "result": {
+      "name": "Shark",
+      "emoji": "🦈"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Surf",
+      "emoji": "🏄"
+    },
+    "combinationB": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "result": {
+      "name": "Black Sand",
+      "emoji": "🏖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Sea",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "result": {
+      "name": "Iced Tea",
+      "emoji": "🍵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "River",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Tea Party",
+      "emoji": "🍵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Windmill",
+      "emoji": "🌬"
+    },
+    "result": {
+      "name": "Dutch",
+      "emoji": "🇳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "result": {
+      "name": "Rose",
+      "emoji": "🌹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Venus Flytrap",
+      "emoji": "🪲"
+    },
+    "result": {
+      "name": "Tea Cup",
+      "emoji": "🍵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Chariot",
+      "emoji": "🛒"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Cactus",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Cactea",
+      "emoji": "🌵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "result": {
+      "name": "Hot Tea",
+      "emoji": "🍵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Cough",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Throat",
+      "emoji": "💦"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Tempest",
+      "emoji": "🌪"
+    },
+    "result": {
+      "name": "Typhoon",
+      "emoji": "🌀"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "result": {
+      "name": "Sake",
+      "emoji": "🍶"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Kelp",
+      "emoji": "🌿"
+    },
+    "result": {
+      "name": "Algae",
+      "emoji": "🌿"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "result": {
+      "name": "Sea Dragon",
+      "emoji": "🐉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "result": {
+      "name": "Roll",
+      "emoji": "🎰"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Dune",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Crab",
+      "emoji": "🦀"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Weed",
+      "emoji": "🌿"
+    },
+    "result": {
+      "name": "Kale",
+      "emoji": "🥬"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Wood",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Raft",
+      "emoji": "🛶"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Jet",
+      "emoji": "✈️"
+    },
+    "result": {
+      "name": "Seaplane",
+      "emoji": "🛩"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Cough",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Cod",
+      "emoji": "🐟"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Incense",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "result": {
+      "name": "Sacrifice",
+      "emoji": "🔪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Incense",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Honey",
+      "emoji": "🍯"
+    },
+    "result": {
+      "name": "Offering",
+      "emoji": "🎁"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Incense",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "result": {
+      "name": "Temple",
+      "emoji": "🏯"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Incense",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "result": {
+      "name": "Sunrise",
+      "emoji": "🌅"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Incense",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Dust Storm",
+      "emoji": "🌪"
+    },
+    "result": {
+      "name": "Sandalwood",
+      "emoji": "🪨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Incense",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Dune",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Frank Herbert",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Incense",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Mushroom",
+      "emoji": "🍄"
+    },
+    "result": {
+      "name": "Shaman",
+      "emoji": "🧙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Incense",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Buddha",
+      "emoji": "🧘"
+    },
+    "result": {
+      "name": "Monk",
+      "emoji": "🧘"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Pollen",
+      "emoji": "🌱"
+    },
+    "combinationB": {
+      "name": "Poseidon",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Nectar",
+      "emoji": "🍯"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "combinationB": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "result": {
+      "name": "Hail",
+      "emoji": "❄️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "combinationB": {
+      "name": "Rock",
+      "emoji": "🪨"
+    },
+    "result": {
+      "name": "Cave",
+      "emoji": "🕳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "combinationB": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "result": {
+      "name": "Whine",
+      "emoji": "🍷"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "combinationB": {
+      "name": "Honey",
+      "emoji": "🍯"
+    },
+    "result": {
+      "name": "Mead",
+      "emoji": "🍯"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Traffic",
+      "emoji": "🚦"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "combinationB": {
+      "name": "Statue",
+      "emoji": "🗽"
+    },
+    "result": {
+      "name": "ountain",
+      "emoji": "⛲"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "combinationB": {
+      "name": "Pencil",
+      "emoji": "✏️"
+    },
+    "result": {
+      "name": "Umbrella",
+      "emoji": "☂️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "combinationB": {
+      "name": "Cough",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Cold",
+      "emoji": "❄️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Geysir",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Whale",
+      "emoji": "🐳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steampunk Pirate",
+      "emoji": "🏴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Tobacco",
+      "emoji": "🚬"
+    },
+    "result": {
+      "name": "Pirate",
+      "emoji": "🏴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Sky",
+      "emoji": "🌌"
+    },
+    "result": {
+      "name": "Horizon",
+      "emoji": "🌅"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Sailor",
+      "emoji": "⛵️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Mosquito",
+      "emoji": "🦟"
+    },
+    "result": {
+      "name": "Squito",
+      "emoji": "🦟"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Fireworks",
+      "emoji": "🎆"
+    },
+    "result": {
+      "name": "Boom",
+      "emoji": "💥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Cough",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Phlegm",
+      "emoji": "🤧"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "combinationB": {
+      "name": "Perfume",
+      "emoji": "👃"
+    },
+    "result": {
+      "name": "Cool",
+      "emoji": "😎"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "combinationB": {
+      "name": "Seed",
+      "emoji": "🌱"
+    },
+    "result": {
+      "name": "Snowflake",
+      "emoji": "❄️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "combinationB": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "result": {
+      "name": "Snow Plow",
+      "emoji": "❄️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "combinationB": {
+      "name": "Venus Flytrap",
+      "emoji": "🪲"
+    },
+    "result": {
+      "name": "Ice Trap",
+      "emoji": "🧊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Skate",
+      "emoji": "🛹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "combinationB": {
+      "name": "Cactus",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Popsicle",
+      "emoji": "🍦"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "combinationB": {
+      "name": "Sky",
+      "emoji": "🌌"
+    },
+    "result": {
+      "name": "Aurora",
+      "emoji": "🌌"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ice",
+      "emoji": "❄️"
+    },
+    "combinationB": {
+      "name": "Frog",
+      "emoji": "🐸"
+    },
+    "result": {
+      "name": "Frozen",
+      "emoji": "❄️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rock",
+      "emoji": "🪨"
+    },
+    "combinationB": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "result": {
+      "name": "Dragon Egg",
+      "emoji": "🐉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rock",
+      "emoji": "🪨"
+    },
+    "combinationB": {
+      "name": "Teapot",
+      "emoji": "🍵"
+    },
+    "result": {
+      "name": "Stoneware",
+      "emoji": "🏺"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rock",
+      "emoji": "🪨"
+    },
+    "combinationB": {
+      "name": "Surfer",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Rockstar",
+      "emoji": "🎸"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rock",
+      "emoji": "🪨"
+    },
+    "combinationB": {
+      "name": "Quagmire",
+      "emoji": "💩"
+    },
+    "result": {
+      "name": "Quarry",
+      "emoji": "🔨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rock",
+      "emoji": "🪨"
+    },
+    "combinationB": {
+      "name": "Bog",
+      "emoji": "💩"
+    },
+    "result": {
+      "name": "Peat",
+      "emoji": "🌿"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rock",
+      "emoji": "🪨"
+    },
+    "combinationB": {
+      "name": "Steamroller",
+      "emoji": "🚂"
+    },
+    "result": {
+      "name": "Flat",
+      "emoji": "🌄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Puddle",
+      "emoji": "💦"
+    },
+    "combinationB": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "result": {
+      "name": "Reflection",
+      "emoji": "💫"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Perfume",
+      "emoji": "👃"
+    },
+    "result": {
+      "name": "Poison",
+      "emoji": "☠️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "result": {
+      "name": "Drunken Dragon",
+      "emoji": "🐉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Seed",
+      "emoji": "🌱"
+    },
+    "result": {
+      "name": "Grape",
+      "emoji": "🍇"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "result": {
+      "name": "Party",
+      "emoji": "🎉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Train",
+      "emoji": "🚂"
+    },
+    "result": {
+      "name": "Dinner",
+      "emoji": "🍽"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steamwine",
+      "emoji": "🍷"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Driving",
+      "emoji": "🚗"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Cactus",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Tequila",
+      "emoji": "🍹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Statue",
+      "emoji": "🗽"
+    },
+    "result": {
+      "name": "Dionysus",
+      "emoji": "🍷"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Wood",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Barrel",
+      "emoji": "🍺"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Mangrove",
+      "emoji": "🌱"
+    },
+    "result": {
+      "name": "Sherry",
+      "emoji": "🍷"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Lagoon",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Sangria",
+      "emoji": "🍷"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Fairy",
+      "emoji": "🧚"
+    },
+    "result": {
+      "name": "Tipsy",
+      "emoji": "🍷"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Sphinx",
+      "emoji": "🐫"
+    },
+    "result": {
+      "name": "Oenophile",
+      "emoji": "🍷"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Buddha",
+      "emoji": "🧘"
+    },
+    "result": {
+      "name": "Drunken Master",
+      "emoji": "🍺"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wine",
+      "emoji": "🍷"
+    },
+    "combinationB": {
+      "name": "Pencil",
+      "emoji": "✏️"
+    },
+    "result": {
+      "name": "Corkscrew",
+      "emoji": "🍾"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Oasis",
+      "emoji": "🏜"
+    },
+    "combinationB": {
+      "name": "Forest",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Jungle",
+      "emoji": "🌴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Oasis",
+      "emoji": "🏜"
+    },
+    "combinationB": {
+      "name": "Tobacco",
+      "emoji": "🚬"
+    },
+    "result": {
+      "name": "Hookah",
+      "emoji": "💨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Oasis",
+      "emoji": "🏜"
+    },
+    "combinationB": {
+      "name": "Venus",
+      "emoji": "♀️"
+    },
+    "result": {
+      "name": "Eden",
+      "emoji": "🌳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "River",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "result": {
+      "name": "Nessie",
+      "emoji": "🐙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "River",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "result": {
+      "name": "Salmon",
+      "emoji": "🐟"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "River",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Train",
+      "emoji": "🚂"
+    },
+    "result": {
+      "name": "Bridge",
+      "emoji": "🌉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "River",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Venus Flytrap",
+      "emoji": "🪲"
+    },
+    "result": {
+      "name": "Amazon",
+      "emoji": "📦"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "River",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "erry",
+      "emoji": "⛴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "River",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Statue",
+      "emoji": "🗽"
+    },
+    "result": {
+      "name": "Colossus",
+      "emoji": "🏗"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "River",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Steamroller",
+      "emoji": "🚂"
+    },
+    "result": {
+      "name": "Road",
+      "emoji": "🛣"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Kelp",
+      "emoji": "🌿"
+    },
+    "combinationB": {
+      "name": "Poseidon",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Triton",
+      "emoji": "🔱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Perfume",
+      "emoji": "👃"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Casper",
+      "emoji": "👻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Perfume",
+      "emoji": "👃"
+    },
+    "combinationB": {
+      "name": "Mosquito",
+      "emoji": "🦟"
+    },
+    "result": {
+      "name": "Itch",
+      "emoji": "💦"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Honey",
+      "emoji": "🍯"
+    },
+    "combinationB": {
+      "name": "Forest",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Bear",
+      "emoji": "🐻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Honey",
+      "emoji": "🍯"
+    },
+    "combinationB": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "result": {
+      "name": "Honeymoon",
+      "emoji": "💑"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Honey",
+      "emoji": "🍯"
+    },
+    "combinationB": {
+      "name": "Wood",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Beehive",
+      "emoji": "🐝"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Honey",
+      "emoji": "🍯"
+    },
+    "combinationB": {
+      "name": "Matcha",
+      "emoji": "🍵"
+    },
+    "result": {
+      "name": "Latte",
+      "emoji": "☕️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lightning",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "result": {
+      "name": "Electric Eel",
+      "emoji": "🦎"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lightning",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Teapot",
+      "emoji": "🍵"
+    },
+    "result": {
+      "name": "Electric Teapot",
+      "emoji": "🍵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lightning",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Surfer",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Thor",
+      "emoji": "⚡️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lightning",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Race Car",
+      "emoji": "🏎"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lightning",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Frankenstein",
+      "emoji": "🧟"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lightning",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Mars",
+      "emoji": "🪐"
+    },
+    "result": {
+      "name": "Olympus",
+      "emoji": "🏔"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Phoenix",
+      "emoji": "🔥"
+    },
+    "result": {
+      "name": "Yin Yang",
+      "emoji": "☯️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "result": {
+      "name": "Dragon Roll",
+      "emoji": "🍣"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Forest",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Treant",
+      "emoji": "🌲"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steam Dragon",
+      "emoji": "🐉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "result": {
+      "name": "Onyx",
+      "emoji": "🔮"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Vacuum",
+      "emoji": "🧹"
+    },
+    "result": {
+      "name": "Dyson",
+      "emoji": "🧹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Poseidon",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Leviathan",
+      "emoji": "🐋"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Lagoon",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Sea Monster",
+      "emoji": "🐙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Sphinx",
+      "emoji": "🐫"
+    },
+    "result": {
+      "name": "Chimera",
+      "emoji": "🐉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "combinationB": {
+      "name": "Fireworks",
+      "emoji": "🎆"
+    },
+    "result": {
+      "name": "Fire Breath",
+      "emoji": "🔥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "result": {
+      "name": "Prison",
+      "emoji": "🔒"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Surfboard",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Skateboard",
+      "emoji": "🛹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Cactus",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Prickly",
+      "emoji": "🌵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Smog",
+      "emoji": "🌫"
+    },
+    "result": {
+      "name": "Factory",
+      "emoji": "🏭"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Cinder",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Fireplace",
+      "emoji": "🔥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Earthquake",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Rubble",
+      "emoji": "💥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Haunted House",
+      "emoji": "👻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Pencil",
+      "emoji": "✏️"
+    },
+    "result": {
+      "name": "Lego",
+      "emoji": "🧱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "combinationB": {
+      "name": "Mars",
+      "emoji": "🪐"
+    },
+    "result": {
+      "name": "Mars Rover",
+      "emoji": "🛰"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Phoenix",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "result": {
+      "name": "Combine",
+      "emoji": "💉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Phoenix",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steam Phoenix",
+      "emoji": "🐉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Phoenix",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Venus Flytrap",
+      "emoji": "🪲"
+    },
+    "result": {
+      "name": "Fire Plant",
+      "emoji": "🌵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Phoenix",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Lotus",
+      "emoji": "🌺"
+    },
+    "result": {
+      "name": "Fenghuang",
+      "emoji": "🐤"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Phoenix",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Submarine",
+      "emoji": "🚤"
+    },
+    "result": {
+      "name": "Subphoenix",
+      "emoji": "🐲"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Phoenix",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Palm Tree",
+      "emoji": "🌴"
+    },
+    "result": {
+      "name": "Phoenix Palm",
+      "emoji": "🌴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "result": {
+      "name": "Sunshine",
+      "emoji": "☀️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "result": {
+      "name": "Solar Flare",
+      "emoji": "🌞"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Surfing",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Sunburn",
+      "emoji": "🌞"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "result": {
+      "name": "Paradise",
+      "emoji": "🏝"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Teapot",
+      "emoji": "🍵"
+    },
+    "result": {
+      "name": "Sun Tea",
+      "emoji": "☀️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Titanic",
+      "emoji": "🚢"
+    },
+    "result": {
+      "name": "Sunken",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Mushroom",
+      "emoji": "🍄"
+    },
+    "result": {
+      "name": "Smile",
+      "emoji": "😊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Solar Car",
+      "emoji": "🚙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Poseidon",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Sunken City",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Vampire",
+      "emoji": "🧛"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Venus",
+      "emoji": "♀️"
+    },
+    "result": {
+      "name": "Mercury",
+      "emoji": "🪐"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Meteor",
+      "emoji": "💫"
+    },
+    "result": {
+      "name": "Supernova",
+      "emoji": "🌠"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Cough",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Sunstroke",
+      "emoji": "🌞"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Chai",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Venus",
+      "emoji": "♀️"
+    },
+    "result": {
+      "name": "Cupid",
+      "emoji": "💘"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Allergy",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Itchy",
+      "emoji": "🐜"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "result": {
+      "name": "Japan",
+      "emoji": "🗾"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Forest",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Bamboo",
+      "emoji": "🎋"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Titanic",
+      "emoji": "🚢"
+    },
+    "result": {
+      "name": "Sushitic",
+      "emoji": "🍣"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steamfish",
+      "emoji": "🐟"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Venus Flytrap",
+      "emoji": "🪲"
+    },
+    "result": {
+      "name": "Sushi Trap",
+      "emoji": "🍣"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Cactus",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Cactus Roll",
+      "emoji": "🌵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Sphinx",
+      "emoji": "🐫"
+    },
+    "result": {
+      "name": "Sphinxus",
+      "emoji": "🗿"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hurricane",
+      "emoji": "🌀"
+    },
+    "combinationB": {
+      "name": "Sphinx",
+      "emoji": "🐫"
+    },
+    "result": {
+      "name": "Oz",
+      "emoji": "🌪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Mist",
+      "emoji": "🌫"
+    },
+    "combinationB": {
+      "name": "Fairy",
+      "emoji": "🧚"
+    },
+    "result": {
+      "name": "Dew",
+      "emoji": "💦"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Windmill",
+      "emoji": "🌬"
+    },
+    "combinationB": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "result": {
+      "name": "Grinder",
+      "emoji": "🍆"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Windmill",
+      "emoji": "🌬"
+    },
+    "combinationB": {
+      "name": "Sphinx",
+      "emoji": "🐫"
+    },
+    "result": {
+      "name": "Owl",
+      "emoji": "🦉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Dust Storm",
+      "emoji": "🌪"
+    },
+    "result": {
+      "name": "Dust Devil",
+      "emoji": "🌪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "result": {
+      "name": "Lunar Eclipse",
+      "emoji": "🌚"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Titanic",
+      "emoji": "🚢"
+    },
+    "result": {
+      "name": "Titanado",
+      "emoji": "🌌"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Venus Flytrap",
+      "emoji": "🪲"
+    },
+    "result": {
+      "name": "Funnel Cake",
+      "emoji": "🍩"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Mushroom",
+      "emoji": "🍄"
+    },
+    "result": {
+      "name": "Fungi",
+      "emoji": "🍄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Mudslide",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Mudnado",
+      "emoji": "🌪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Quagmire",
+      "emoji": "💩"
+    },
+    "result": {
+      "name": "Whirlpool",
+      "emoji": "🌀"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seed",
+      "emoji": "🌱"
+    },
+    "combinationB": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "result": {
+      "name": "Corn",
+      "emoji": "🌽"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seed",
+      "emoji": "🌱"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Pumpkin",
+      "emoji": "🎃"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Seed",
+      "emoji": "🌱"
+    },
+    "combinationB": {
+      "name": "Submarine",
+      "emoji": "🚤"
+    },
+    "result": {
+      "name": "Seedpod",
+      "emoji": "🌱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dust Storm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Surfing",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Sand Surfing",
+      "emoji": "🏄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dust Storm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Allergy",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Dust Allergy",
+      "emoji": "🌪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dust Storm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Rainbow",
+      "emoji": "🌈"
+    },
+    "result": {
+      "name": "Rainbow Dust",
+      "emoji": "🌈"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dust Storm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Earthquake",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Apocalypse",
+      "emoji": "🌋"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Leaf",
+      "emoji": "🍃"
+    },
+    "combinationB": {
+      "name": "Train",
+      "emoji": "🚂"
+    },
+    "result": {
+      "name": "Leafblower",
+      "emoji": "🍃"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Leaf",
+      "emoji": "🍃"
+    },
+    "combinationB": {
+      "name": "Mushroom",
+      "emoji": "🍄"
+    },
+    "result": {
+      "name": "Salad",
+      "emoji": "🥗"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Leaf",
+      "emoji": "🍃"
+    },
+    "combinationB": {
+      "name": "Cactus",
+      "emoji": "🌵"
+    },
+    "result": {
+      "name": "Aloe",
+      "emoji": "🌵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Leaf",
+      "emoji": "🍃"
+    },
+    "combinationB": {
+      "name": "Rainbow",
+      "emoji": "🌈"
+    },
+    "result": {
+      "name": "Autumn",
+      "emoji": "🍂"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Surfing",
+      "emoji": "🏄"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steam Surfing",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Kite",
+      "emoji": "🪁"
+    },
+    "combinationB": {
+      "name": "Bee",
+      "emoji": "🐝"
+    },
+    "result": {
+      "name": "Sting",
+      "emoji": "🐝"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Kite",
+      "emoji": "🪁"
+    },
+    "combinationB": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "result": {
+      "name": "Arrow",
+      "emoji": "🏹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Kite",
+      "emoji": "🪁"
+    },
+    "combinationB": {
+      "name": "Wish",
+      "emoji": "🌠"
+    },
+    "result": {
+      "name": "Wishbone",
+      "emoji": "🍴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Kite",
+      "emoji": "🪁"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Flying Ghost",
+      "emoji": "👻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Allergy",
+      "emoji": "🤧"
+    },
+    "combinationB": {
+      "name": "Train",
+      "emoji": "🚂"
+    },
+    "result": {
+      "name": "Hayride",
+      "emoji": "🚜"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "combinationB": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "result": {
+      "name": "Luna",
+      "emoji": "🌙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "combinationB": {
+      "name": "Geysir",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Iceland",
+      "emoji": "🇮"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Parking",
+      "emoji": "🅿"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "combinationB": {
+      "name": "Statue",
+      "emoji": "🗽"
+    },
+    "result": {
+      "name": "Statue of Liberty",
+      "emoji": "🗽"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Clay",
+      "emoji": "🏺"
+    },
+    "combinationB": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "result": {
+      "name": "Vase",
+      "emoji": "🏺"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Clay",
+      "emoji": "🏺"
+    },
+    "combinationB": {
+      "name": "Surfer",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Potter",
+      "emoji": "🧙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Clay",
+      "emoji": "🏺"
+    },
+    "combinationB": {
+      "name": "Rainbow",
+      "emoji": "🌈"
+    },
+    "result": {
+      "name": "Pot of Gold",
+      "emoji": "🌈"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Forest",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Log",
+      "emoji": "🪵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "result": {
+      "name": "Moon Buggy",
+      "emoji": "🌑"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Steam Tractor",
+      "emoji": "🚜"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Surfboard",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Tractorboard",
+      "emoji": "🚜"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Venus Flytrap",
+      "emoji": "🪲"
+    },
+    "result": {
+      "name": "Tractor Fly",
+      "emoji": "🐛"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Prayer",
+      "emoji": "🙏"
+    },
+    "result": {
+      "name": "Cultivator",
+      "emoji": "🌱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Wood",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Lumberjack",
+      "emoji": "🪓"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "combinationB": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "result": {
+      "name": "Night",
+      "emoji": "🌃"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Carnation",
+      "emoji": "💐"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "combinationB": {
+      "name": "Mudslide",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Daisy",
+      "emoji": "🌼"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "combinationB": {
+      "name": "Poseidon",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Nymph",
+      "emoji": "🧚"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "combinationB": {
+      "name": "Coral",
+      "emoji": "🐠"
+    },
+    "result": {
+      "name": "Anemone",
+      "emoji": "🌊"
+    }
   }
 ]

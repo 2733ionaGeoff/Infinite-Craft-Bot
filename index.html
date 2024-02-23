@@ -44,6 +44,10 @@
   tr:hover {
     background-color: #f5f5f5;
   }
+  .clickable {
+    cursor: pointer;
+    text-decoration: underline;
+  }
 </style>
 </head>
 <body>
@@ -77,12 +81,19 @@ function displayCombinations(combinations) {
   const tableBody = document.getElementById('combinationsTable').getElementsByTagName('tbody')[0];
   tableBody.innerHTML = ''; // Clear existing table rows
   combinations.forEach(combination => {
-    const row = `<tr>
-      <td>${combination.combinationA.name} ${combination.combinationA.emoji}</td>
-      <td>${combination.combinationB.name} ${combination.combinationB.emoji}</td>
-      <td>${combination.result.name} ${combination.result.emoji}</td>
-    </tr>`;
-    tableBody.innerHTML += row;
+    const row = document.createElement('tr');
+    row.innerHTML = `
+      <td class="clickable">${combination.combinationA.name} ${combination.combinationA.emoji}</td>
+      <td class="clickable">${combination.combinationB.name} ${combination.combinationB.emoji}</td>
+      <td class="clickable">${combination.result.name} ${combination.result.emoji}</td>
+    `;
+    // Add click listeners to each cell
+    Array.from(row.cells).forEach(cell => {
+      cell.addEventListener('click', () => {
+        filterByElement(cell.textContent);
+      });
+    });
+    tableBody.appendChild(row);
   });
 }
 
@@ -98,7 +109,25 @@ function filterResults() {
     })
     .catch(error => console.error('Error filtering combinations:', error));
 }
+
+function filterByElement(elementText) {
+  fetch('combinations.json')
+    .then(response => response.json())
+    .then(data => {
+      const elementName = elementText.split(' ')[0]; // Assume the name is the first part before the emoji
+      const filteredCombinations = data.filter(combination =>
+        combination.combinationA.name === elementName ||
+        combination.combinationB.name === elementName ||
+        combination.result.name === elementName
+      );
+      displayCombinations(filteredCombinations);
+    })
+    .catch(error => console.error('Error filtering by element:', error));
+}
 </script>
+
+</body>
+</html>
 
 </body>
 </html>

@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs').promises; // For file operations
 
 // Define a custom delay function
 function delay(time) {
@@ -22,7 +23,8 @@ function delay(time) {
         console.log('No consent button found or error clicking it:', error);
     }
 
-    let clickedCombinations = {};
+    let clickedCombinations = [];
+    let results = [];
 
     async function isElementClickable(item) {
         const isClickable = await item.evaluate(el => {
@@ -35,6 +37,15 @@ function delay(time) {
             );
         });
         return isClickable;
+    }
+
+    async function getItems() {
+        return await page.$$eval('.item', items =>
+            items.map(item => ({
+                id: item.id,
+                name: item.textContent.trim()
+            }))
+        );
     }
 
     async function clickNewItems() {
@@ -51,18 +62,29 @@ function delay(time) {
                     const itemIdB = await itemB.evaluate(node => node.id);
                     const combinationKey = `${itemIdA}-${itemIdB}`;
 
-                    if (!clickedCombinations[combinationKey]) {
+                    if (!clickedCombinations.some(e => e.combinationKey === combinationKey)) {
                         const isClickableA = await isElementClickable(itemA);
                         const isClickableB = await isElementClickable(itemB);
 
                         if (isClickableA && isClickableB) {
+                            const itemsBeforeClick = await getItems();
                             await delay(200); // Custom delay before clicking itemA
                             await itemA.click();
                             await delay(200); // Custom delay before clicking itemB
                             await itemB.click();
-                            clickedCombinations[combinationKey] = true;
+
+                            // Wait for any animations or updates to complete
+                            await delay(200);
+
+                            const itemsAfterClick = await getItems();
+                            const newItems = itemsAfterClick.filter(item => !itemsBeforeClick.some(before => before.id === item.id));
+                            let resultItem = newItems.length > 0 ? newItems[0] : { id: '', name: 'No new item' };
+                            clickedCombinations.push({ combinationKey, itemA: itemIdA, itemB: itemIdB, result: resultItem.name });
                             newCombinationsFound = true;
-                            console.log(`Clicked combination: ${combinationKey}`);
+                            console.log(`Clicked combination: ${combinationKey}, Result: ${resultItem.name}`);
+                            if (resultItem.id !== '') {
+                                results.push({ itemA: itemIdA, itemB: itemIdB, result: resultItem.name });
+                            }
                         }
                     }
                 }
@@ -72,14 +94,24 @@ function delay(time) {
         return newCombinationsFound;
     }
 
+    async function saveResultsToFile() {
+        await fs.writeFile('combinations.json', JSON.stringify(results, null, 2));
+        console.log('Results saved to combinations.json');
+    }
+
     async function continuouslyClickNewItems() {
-        while (true) {
+        let attempts = 0;
+        while (attempts < 1000) {
             const foundNewCombinations = await clickNewItems();
             if (!foundNewCombinations) {
                 console.log('No new combinations found. Continuing to try...');
             }
+            attempts++;
             await delay(200);
+            console.log(`Attempt ${attempts}`);
+            await saveResultsToFile();
         }
+        await saveResultsToFile();
     }
 
     continuouslyClickNewItems();

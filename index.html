@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Combination Table</title>
+<style>
+  /* Add your CSS styles here */
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+
+<div>
+  <label for="searchBar">Search by Result:</label>
+  <input type="text" id="searchBar" onkeyup="filterResults()" placeholder="Search for results...">
+</div>
+
+<table id="combinationsTable">
+  <thead>
+    <tr>
+      <th>Combination A</th>
+      <th>Combination B</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<script>
+  fetch('combinations.json')
+    .then(response => response.json())
+    .then(data => {
+      displayCombinations(data);
+    })
+    .catch(error => console.error('Error loading combinations:', error));
+
+  function displayCombinations(combinations) {
+    const tableBody = document.getElementById('combinationsTable').getElementsByTagName('tbody')[0];
+    tableBody.innerHTML = '';
+    combinations.forEach(combination => {
+      const row = `<tr>
+        <td>${combination.combinationA.name} ${combination.combinationA.emoji}</td>
+        <td>${combination.combinationB.name} ${combination.combinationB.emoji}</td>
+        <td>${combination.result.name} ${combination.result.emoji}</td>
+      </tr>`;
+      tableBody.innerHTML += row;
+    });
+  }
+
+  function filterResults() {
+    const searchText = document.getElementById('searchBar').value.toLowerCase();
+    fetch('combinations.json')
+      .then(response => response.json())
+      .then(data => {
+        const filteredCombinations = data.filter(combination =>
+          combination.result.name.toLowerCase().includes(searchText)
+        );
+        displayCombinations(filteredCombinations);
+      })
+      .catch(error => console.error('Error filtering combinations:', error));
+  }
+</script>
+
+
+
+</script>
+
+</body>
+</html>

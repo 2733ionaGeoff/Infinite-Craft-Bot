@@ -169,13 +169,13 @@ async function runOldCombinations(page, delayTimeMS = 200) {
                                     combinationB: { name: combinationB.name, emoji: combinationB.emoji },
                                     result: { name: resultItem.name, emoji: resultItem.emoji }
                                 });
+                                await saveResultsToFile(results);
                             }
                         }
                     }
                 }
             }
         }
-    
         if (newCombinationsFound) {
             await saveResultsToFile(results);
         }

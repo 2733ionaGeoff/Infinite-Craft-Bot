@@ -1,80 +1,86 @@
 [
   {
-    "result": "💨\n        Steam"
+    "combinationA": {
+      "name": "Water",
+      "emoji": "💧"
+    },
+    "combinationB": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "result": {
+      "name": "Steam",
+      "emoji": "💨"
+    }
   },
   {
-    "result": "🌊\n        Wave"
+    "combinationA": {
+      "name": "Water",
+      "emoji": "💧"
+    },
+    "combinationB": {
+      "name": "Wind",
+      "emoji": "🌬"
+    },
+    "result": {
+      "name": "Wave",
+      "emoji": "🌊"
+    }
   },
   {
-    "result": "🌱\n        Plant"
+    "combinationA": {
+      "name": "Water",
+      "emoji": "💧"
+    },
+    "combinationB": {
+      "name": "Earth",
+      "emoji": "🌍"
+    },
+    "result": {
+      "name": "Plant",
+      "emoji": "🌱"
+    }
   },
   {
-    "result": "💨\n        Smoke"
+    "combinationA": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Wind",
+      "emoji": "🌬"
+    },
+    "result": {
+      "name": "Smoke",
+      "emoji": "💨"
+    }
   },
   {
-    "result": "🌋\n        Lava"
+    "combinationA": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Earth",
+      "emoji": "🌍"
+    },
+    "result": {
+      "name": "Lava",
+      "emoji": "🌋"
+    }
   },
   {
-    "result": "🌫️\n        Dust"
-  },
-  {
-    "result": "☁️\n        Cloud"
-  },
-  {
-    "result": "🌊\n        Tsunami"
-  },
-  {
-    "result": "🐊\n        Swamp"
-  },
-  {
-    "result": "🌫️\n        Fog"
-  },
-  {
-    "result": "🪨\n        Stone"
-  },
-  {
-    "result": "💩\n        Mud"
-  },
-  {
-    "result": "🚗\n        Engine"
-  },
-  {
-    "result": "🌋\n        Volcano"
-  },
-  {
-    "result": "🌋\n        Ash"
-  },
-  {
-    "result": "⛈️\n        Storm"
-  },
-  {
-    "result": "🌼\n        Dandelion"
-  },
-  {
-    "result": "🌪️\n        Sandstorm"
-  },
-  {
-    "result": "🏖️\n        Sand"
-  },
-  {
-    "result": "🌳\n        Tree"
-  },
-  {
-    "result": "🪐\n        Planet"
-  },
-  {
-    "result": "🏄\n        Surf"
-  },
-  {
-    "result": "🍵\n        Tea"
-  },
-  {
-    "result": "🌊\n        Seaweed"
-  },
-  {
-    "result": "🕯️\n        Incense"
-  },
-  {
-    "result": "🌱\n        Pollen"
+    "combinationA": {
+      "name": "Wind",
+      "emoji": "🌬"
+    },
+    "combinationB": {
+      "name": "Earth",
+      "emoji": "🌍"
+    },
+    "result": {
+      "name": "Dust",
+      "emoji": "🌫"
+    }
   }
 ]

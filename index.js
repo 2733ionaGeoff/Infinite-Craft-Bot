@@ -25,7 +25,7 @@ function delay(time) {
 
     let clickedCombinations = [];
     let results = [];
-
+    
     async function isElementClickable(item) {
         const isClickable = await item.evaluate(el => {
             const rect = el.getBoundingClientRect();
@@ -41,57 +41,64 @@ function delay(time) {
 
     async function getItems() {
         return await page.$$eval('.item', items =>
-            items.map(item => ({
-                id: item.id,
-                name: item.textContent.trim()
-            }))
+            items.map(item => {
+                const textContent = item.textContent.trim();
+                const name = textContent.slice(11).trim();
+                const emoji = textContent.slice(0, 2).trim();
+                return { id: item.id, name, emoji };
+            })
         );
     }
 
     async function clickNewItems() {
         const items = await page.$$('.item');
         let newCombinationsFound = false;
-
+    
         for (let i = 0; i < items.length; i++) {
             const itemA = items[i];
             const itemIdA = await itemA.evaluate(node => node.id);
-
             for (let j = 0; j < items.length; j++) {
                 if (i !== j) {
                     const itemB = items[j];
                     const itemIdB = await itemB.evaluate(node => node.id);
                     const combinationKey = `${itemIdA}-${itemIdB}`;
-
+    
                     if (!clickedCombinations.some(e => e.combinationKey === combinationKey)) {
                         const isClickableA = await isElementClickable(itemA);
                         const isClickableB = await isElementClickable(itemB);
 
                         if (isClickableA && isClickableB) {
                             const itemsBeforeClick = await getItems();
-                            await delay(200); // Custom delay before clicking itemA
-                            await itemA.click();
-                            await delay(200); // Custom delay before clicking itemB
-                            await itemB.click();
-
-                            // Wait for any animations or updates to complete
                             await delay(200);
-
-                            const itemsAfterClick = await getItems();
-                            const newItems = itemsAfterClick.filter(item => !itemsBeforeClick.some(before => before.id === item.id));
-                            let resultItem = newItems.length > 0 ? newItems[0] : { id: '', name: 'No new item' };
-                            clickedCombinations.push({ combinationKey, itemA: itemIdA, itemB: itemIdB, result: resultItem.name });
+                            await itemA.click();
+                            await delay(200);
+                            await itemB.click();
+                            await delay(200);
+        
+                            const newItems = await getItems();
+                            const newItemsFiltered = newItems.filter(item => !itemsBeforeClick.some(before => before.id === item.id));
+                            let resultItem = newItemsFiltered.length > 0 ? newItemsFiltered[0] : { id: '', name: 'No new item', emoji: '' };
+                            clickedCombinations.push({ combinationKey, itemA: itemA.name, itemB: itemB.name, result: resultItem.name + ' ' + resultItem.emoji });
                             newCombinationsFound = true;
-                            console.log(`Clicked combination: ${combinationKey}, Result: ${resultItem.name}`);
+                            console.log(`Clicked combination: ${combinationKey}, Result: ${resultItem.name} ${resultItem.emoji}`);
                             if (resultItem.id !== '') {
-                                results.push({ itemA: itemIdA, itemB: itemIdB, result: resultItem.name });
+                                const combinationA = itemsBeforeClick.find(item => item.id === itemIdA);
+                                const combinationB = itemsBeforeClick.find(item => item.id === itemIdB);
+                                results.push({
+                                    combinationA: { name: combinationA.name, emoji: combinationA.emoji },
+                                    combinationB: { name: combinationB.name, emoji: combinationB.emoji },
+                                    result: { name: resultItem.name, emoji: resultItem.emoji }
+                                });
                             }
                         }
                     }
                 }
             }
         }
-
-        return newCombinationsFound;
+    
+        if (newCombinationsFound) {
+            await saveResultsToFile();
+        }
     }
 
     async function saveResultsToFile() {
@@ -101,18 +108,16 @@ function delay(time) {
 
     async function continuouslyClickNewItems() {
         let attempts = 0;
-        while (attempts < 1000) {
-            const foundNewCombinations = await clickNewItems();
-            if (!foundNewCombinations) {
-                console.log('No new combinations found. Continuing to try...');
-            }
+        let foundNewCombinations;
+        do {
+            foundNewCombinations = await clickNewItems();
             attempts++;
-            await delay(200);
             console.log(`Attempt ${attempts}`);
-            await saveResultsToFile();
-        }
-        await saveResultsToFile();
+        } while (foundNewCombinations);
     }
 
-    continuouslyClickNewItems();
+    await continuouslyClickNewItems();
 })();
+
+
+

@@ -3,78 +3,101 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Combination Table</title>
+<title>Element Combinations</title>
 <style>
-  /* Add your CSS styles here */
-  table, th, td {
-    border: 1px solid black;
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  input#searchBar {
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: calc(100% - 22px);
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  table {
+    width: 100%;
     border-collapse: collapse;
+    margin-bottom: 20px;
   }
   th, td {
-    padding: 8px;
     text-align: left;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
   }
   th {
     background-color: #f2f2f2;
+  }
+  tr:hover {
+    background-color: #f5f5f5;
   }
 </style>
 </head>
 <body>
 
-<div>
-  <label for="searchBar">Search by Result:</label>
+<div class="container">
+  <h2>Element Combinations</h2>
   <input type="text" id="searchBar" onkeyup="filterResults()" placeholder="Search for results...">
+  <table id="combinationsTable">
+    <thead>
+      <tr>
+        <th>Combination A</th>
+        <th>Combination B</th>
+        <th>Result</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- JavaScript will dynamically insert rows here -->
+    </tbody>
+  </table>
 </div>
 
-<table id="combinationsTable">
-  <thead>
-    <tr>
-      <th>Combination A</th>
-      <th>Combination B</th>
-      <th>Result</th>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
-
 <script>
+fetch('combinations.json')
+  .then(response => response.json())
+  .then(data => {
+    displayCombinations(data);
+  })
+  .catch(error => console.error('Error loading combinations:', error));
+
+function displayCombinations(combinations) {
+  const tableBody = document.getElementById('combinationsTable').getElementsByTagName('tbody')[0];
+  tableBody.innerHTML = ''; // Clear existing table rows
+  combinations.forEach(combination => {
+    const row = `<tr>
+      <td>${combination.combinationA.name} ${combination.combinationA.emoji}</td>
+      <td>${combination.combinationB.name} ${combination.combinationB.emoji}</td>
+      <td>${combination.result.name} ${combination.result.emoji}</td>
+    </tr>`;
+    tableBody.innerHTML += row;
+  });
+}
+
+function filterResults() {
+  const searchText = document.getElementById('searchBar').value.toLowerCase();
   fetch('combinations.json')
     .then(response => response.json())
     .then(data => {
-      displayCombinations(data);
+      const filteredCombinations = data.filter(combination =>
+        combination.result.name.toLowerCase().includes(searchText)
+      );
+      displayCombinations(filteredCombinations);
     })
-    .catch(error => console.error('Error loading combinations:', error));
-
-  function displayCombinations(combinations) {
-    const tableBody = document.getElementById('combinationsTable').getElementsByTagName('tbody')[0];
-    tableBody.innerHTML = '';
-    combinations.forEach(combination => {
-      const row = `<tr>
-        <td>${combination.combinationA.name} ${combination.combinationA.emoji}</td>
-        <td>${combination.combinationB.name} ${combination.combinationB.emoji}</td>
-        <td>${combination.result.name} ${combination.result.emoji}</td>
-      </tr>`;
-      tableBody.innerHTML += row;
-    });
-  }
-
-  function filterResults() {
-    const searchText = document.getElementById('searchBar').value.toLowerCase();
-    fetch('combinations.json')
-      .then(response => response.json())
-      .then(data => {
-        const filteredCombinations = data.filter(combination =>
-          combination.result.name.toLowerCase().includes(searchText)
-        );
-        displayCombinations(filteredCombinations);
-      })
-      .catch(error => console.error('Error filtering combinations:', error));
-  }
-</script>
-
-
-
+    .catch(error => console.error('Error filtering combinations:', error));
+}
 </script>
 
 </body>

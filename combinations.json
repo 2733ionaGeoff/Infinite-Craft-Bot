@@ -5570,5 +5570,299 @@
       "name": "Wreck",
       "emoji": "🚢"
     }
+  },
+  {
+    "combinationA": {
+      "name": "Storm",
+      "emoji": "⛈️"
+    },
+    "combinationB": {
+      "name": "Submarine",
+      "emoji": "🚤"
+    },
+    "result": {
+      "name": "Squid",
+      "emoji": "🦑"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "result": {
+      "name": "Wet",
+      "emoji": "💦"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "result": {
+      "name": "Dandelion Roll",
+      "emoji": "🌼"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Dust Storm",
+      "emoji": "🌪"
+    },
+    "result": {
+      "name": "Dust Bunny",
+      "emoji": "🐰"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "result": {
+      "name": "Lawn",
+      "emoji": "🌱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Weed",
+      "emoji": "🌿"
+    },
+    "result": {
+      "name": "Marijuana",
+      "emoji": "🌿"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "result": {
+      "name": "lock",
+      "emoji": "⏰"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Ghost",
+      "emoji": "👻"
+    },
+    "result": {
+      "name": "Poltergeist",
+      "emoji": "👻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Meteor",
+      "emoji": "💫"
+    },
+    "result": {
+      "name": "Asteroid",
+      "emoji": "💫"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Sphinx",
+      "emoji": "🐫"
+    },
+    "result": {
+      "name": "Lion",
+      "emoji": "🦁"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dandelion",
+      "emoji": "🌼"
+    },
+    "combinationB": {
+      "name": "Cough",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Cough Syrup",
+      "emoji": "🤒"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sandstorm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "result": {
+      "name": "Sand Dragon",
+      "emoji": "🐲"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sandstorm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Dust Storm",
+      "emoji": "🌪"
+    },
+    "result": {
+      "name": "Dust Bowl",
+      "emoji": "🌪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sandstorm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Surfboard",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Sandboard",
+      "emoji": "🏜"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sandstorm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Surfer",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Sandman",
+      "emoji": "🏖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sandstorm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Dune Buggy",
+      "emoji": "🐞"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sandstorm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Wood",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "Sandal",
+      "emoji": "👡"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sandstorm",
+      "emoji": "🌪"
+    },
+    "combinationB": {
+      "name": "Buddha",
+      "emoji": "🧘"
+    },
+    "result": {
+      "name": "Sand Buddha",
+      "emoji": "🧘"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sand",
+      "emoji": "🏖"
+    },
+    "combinationB": {
+      "name": "Allergy",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Hay",
+      "emoji": "🌾"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sand",
+      "emoji": "🏖"
+    },
+    "combinationB": {
+      "name": "Teapot",
+      "emoji": "🍵"
+    },
+    "result": {
+      "name": "ourglass",
+      "emoji": "⌛"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sand",
+      "emoji": "🏖"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Sandpunk",
+      "emoji": "🏖"
+    }
   }
 ]

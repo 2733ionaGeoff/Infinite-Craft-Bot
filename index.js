@@ -186,6 +186,8 @@ async function runOldCombinations(page, delayTimeMS = 200) {
                         await saveResultsToFile(results);
                     }
                 }
+            } else {
+                console.log(`Combination already clicked: ${combinationKey}`);
             }
         }
     

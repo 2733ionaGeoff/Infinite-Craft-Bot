@@ -101,7 +101,7 @@ async function runOldCombinations(page, delayTimeMS = 200) {
         console.log('No consent button found or error clicking it:', error);
     }
 
-    await runOldCombinations(page, 100);
+    await runOldCombinations(page, 25);
 
     let clickedCombinations = [];
     let results = [];
@@ -133,6 +133,11 @@ async function runOldCombinations(page, delayTimeMS = 200) {
     async function clickNewItems(delayTimeMS = 200) {
         const items = await page.$$('.item');
         let newCombinationsFound = false;
+
+        for (let i = items.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [items[i], items[j]] = [items[j], items[i]]; 
+        }
     
         for (let i = 0; i < items.length; i++) {
             const itemA = items[i];

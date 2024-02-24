@@ -101,7 +101,7 @@ async function runOldCombinations(page, delayTimeMS = 200) {
         console.log('No consent button found or error clicking it:', error);
     }
 
-    await runOldCombinations(page, 25);
+    //await runOldCombinations(page, 10);
 
     let clickedCombinations = [];
     let results = [];
@@ -131,66 +131,75 @@ async function runOldCombinations(page, delayTimeMS = 200) {
     }
 
     async function clickNewItems(delayTimeMS = 200) {
-        const items = await page.$$('.item');
         let newCombinationsFound = false;
-
-        for (let i = items.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [items[i], items[j]] = [items[j], items[i]]; 
-        }
+        let attempts = 0;
+        let maxAttempts = 1000;
     
-        for (let i = 0; i < items.length; i++) {
-            const itemA = items[i];
+        while (attempts < maxAttempts) {
+            attempts++;
+            let items = await page.$$('.item'); // Refetch items to get the most up-to-date list
+    
+            if (items.length < 2) {
+                break; // Not enough items to form a combination
+            }
+    
+            // Randomly select two different items
+            let indexA = Math.floor(Math.random() * items.length);
+            let indexB;
+            do {
+                indexB = Math.floor(Math.random() * items.length);
+            } while (indexA === indexB);
+    
+            const itemA = items[indexA];
+            const itemB = items[indexB];
+    
             const itemIdA = await itemA.evaluate(node => node.id);
-            for (let j = 0; j < items.length; j++) {
-                if (i !== j) {
-                    const itemB = items[j];
-                    const itemIdB = await itemB.evaluate(node => node.id);
-                    const combinationKey = `${itemIdA}-${itemIdB}`;
+            const itemIdB = await itemB.evaluate(node => node.id);
+            const combinationKey = `${itemIdA}-${itemIdB}`;
     
-                    if (!clickedCombinations.some(e => e === combinationKey)) {
-                        const isClickableA = await isElementClickable(itemA);
-                        const isClickableB = await isElementClickable(itemB);
-
-                        if (isClickableA && isClickableB) {
-                            const itemsBeforeClick = await getItems();
-                            await delay(delayTimeMS);
-                            await itemA.click();
-                            await delay(delayTimeMS);
-                            await itemB.click();
-                            await delay(delayTimeMS);
-        
-                            const newItems = await getItems();
-                            const newItemsFiltered = newItems.filter(item => !itemsBeforeClick.some(before => before.id === item.id));
-                            let resultItem = newItemsFiltered.length > 0 ? newItemsFiltered[0] : { id: '', name: 'No new item', emoji: '' };
-                            clickedCombinations.push(combinationKey);
-                            newCombinationsFound = true;
-                            console.log(`Clicked combination: ${combinationKey}, Result: ${resultItem.name} ${resultItem.emoji}`);
-                            if (resultItem.id !== '') {
-                                const combinationA = itemsBeforeClick.find(item => item.id === itemIdA);
-                                const combinationB = itemsBeforeClick.find(item => item.id === itemIdB);
-                                results.push({
-                                    combinationA: { name: combinationA.name, emoji: combinationA.emoji },
-                                    combinationB: { name: combinationB.name, emoji: combinationB.emoji },
-                                    result: { name: resultItem.name, emoji: resultItem.emoji }
-                                });
-                                await saveResultsToFile(results);
-                            }
-                        }
+            if (!clickedCombinations.includes(combinationKey)) {
+                const isClickableA = await isElementClickable(itemA);
+                const isClickableB = await isElementClickable(itemB);
+    
+                if (isClickableA && isClickableB) {
+                    const itemsBeforeClick = await getItems();
+                    await delay(delayTimeMS);
+                    await itemA.click();
+                    await delay(delayTimeMS);
+                    await itemB.click();
+                    await delay(delayTimeMS);
+    
+                    const newItems = await getItems();
+                    const newItemsFiltered = newItems.filter(item => !itemsBeforeClick.some(before => before.id === item.id));
+                    let resultItem = newItemsFiltered.length > 0 ? newItemsFiltered[0] : { id: '', name: 'No new item', emoji: '' };
+                    clickedCombinations.push(combinationKey);
+                    newCombinationsFound = true;
+                    console.log(`Clicked combination: ${combinationKey}, Result: ${resultItem.name} ${resultItem.emoji}`);
+                    if (resultItem.id !== '') {
+                        const combinationA = itemsBeforeClick.find(item => item.id === itemIdA);
+                        const combinationB = itemsBeforeClick.find(item => item.id === itemIdB);
+                        results.push({
+                            combinationA: { name: combinationA.name, emoji: combinationA.emoji },
+                            combinationB: { name: combinationB.name, emoji: combinationB.emoji },
+                            result: { name: resultItem.name, emoji: resultItem.emoji }
+                        });
+                        await saveResultsToFile(results);
                     }
                 }
             }
         }
+    
         if (newCombinationsFound) {
             await saveResultsToFile(results);
         }
         return newCombinationsFound;
     }
+    
 
     async function continuouslyClickNewItems() {
         let foundNewCombinations;
         do {
-            foundNewCombinations = await clickNewItems(50);
+            foundNewCombinations = await clickNewItems(10);
             console.log(`Attempt: Checking for new combinations...`);
         } while (foundNewCombinations);
         console.log('No more new combinations found.');

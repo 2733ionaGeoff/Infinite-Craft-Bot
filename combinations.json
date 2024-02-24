@@ -9658,5 +9658,131 @@
       "name": "Sunfish",
       "emoji": "🐟"
     }
+  },
+  {
+    "combinationA": {
+      "name": "Earth",
+      "emoji": "🌍"
+    },
+    "combinationB": {
+      "name": "Water",
+      "emoji": "💧"
+    },
+    "result": {
+      "name": "Steam",
+      "emoji": "💨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Water",
+      "emoji": "💧"
+    },
+    "result": {
+      "name": "Smoke",
+      "emoji": "💨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Steam",
+      "emoji": "💨"
+    },
+    "combinationB": {
+      "name": "Smoke",
+      "emoji": "💨"
+    },
+    "result": {
+      "name": "Tea",
+      "emoji": "🍵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Plant",
+      "emoji": "🌱"
+    },
+    "combinationB": {
+      "name": "Dust",
+      "emoji": "🌫"
+    },
+    "result": {
+      "name": "Swamp",
+      "emoji": "🐊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Stone",
+      "emoji": "🪨"
+    },
+    "combinationB": {
+      "name": "Cloud",
+      "emoji": "☁️"
+    },
+    "result": {
+      "name": "Amber",
+      "emoji": "🌾"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Wind",
+      "emoji": "🌬"
+    },
+    "result": {
+      "name": "Smoke On The Water",
+      "emoji": "💨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Wave",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Fire And Rain",
+      "emoji": "🌧"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Plate",
+      "emoji": "🍽"
+    },
+    "combinationB": {
+      "name": "Earth",
+      "emoji": "🌍"
+    },
+    "result": {
+      "name": "Fog",
+      "emoji": "🌫"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wave",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Desert",
+      "emoji": "🏜"
+    },
+    "result": {
+      "name": "Fire Soup",
+      "emoji": "🔥"
+    }
   }
 ]

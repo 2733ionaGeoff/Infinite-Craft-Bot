@@ -55,7 +55,7 @@ async function getItems(page) {
 async function clickNewItems(page, clickedCombinations, delayTimeMS = 200) {
     let newCombinationsFound = false;
     let attempts = 0;
-    const maxAttempts = 1000;
+    const maxAttempts = 1000000;
     let results = [];
 
     while (attempts < maxAttempts) {

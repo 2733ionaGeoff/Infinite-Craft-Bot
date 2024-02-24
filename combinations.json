@@ -11730,5 +11730,103 @@
       "name": "Wipers",
       "emoji": "💦"
     }
+  },
+  {
+    "combinationA": {
+      "name": "Ice Cream",
+      "emoji": "🍦"
+    },
+    "combinationB": {
+      "name": "Mud",
+      "emoji": "💩"
+    },
+    "result": {
+      "name": "Kaleidoscope",
+      "emoji": "🔮"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Mars",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Selfie",
+      "emoji": "🤳"
+    },
+    "result": {
+      "name": "Olympus",
+      "emoji": "🏔"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Cthulhu",
+      "emoji": "🐙"
+    },
+    "combinationB": {
+      "name": "Hubble",
+      "emoji": "🌌"
+    },
+    "result": {
+      "name": "Cthulhu Truck",
+      "emoji": "🐙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Ark",
+      "emoji": "🐘"
+    },
+    "combinationB": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "result": {
+      "name": "Space Ark",
+      "emoji": "🛸"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Snowcone",
+      "emoji": "🍧"
+    },
+    "combinationB": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "result": {
+      "name": "Mummycone",
+      "emoji": "👻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tsunami",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Space Pirate",
+      "emoji": "🏴"
+    },
+    "result": {
+      "name": "Tidal Wave",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Snowcone",
+      "emoji": "🍧"
+    },
+    "combinationB": {
+      "name": "Mummy",
+      "emoji": "🧟"
+    },
+    "result": {
+      "name": "Lost",
+      "emoji": "🌲"
+    }
   }
 ]

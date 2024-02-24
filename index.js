@@ -57,6 +57,7 @@ async function clickNewItems(page, clickedCombinations, delayTimeMS = 200) {
     let attempts = 0;
     const maxAttempts = 1000000;
     let results = [];
+    let countNewCombinations = 0
 
     while (attempts < maxAttempts) {
         attempts++;
@@ -86,7 +87,8 @@ async function clickNewItems(page, clickedCombinations, delayTimeMS = 200) {
         const combinationKey = `${itemIdA}-${itemIdB}`;
         if (!clickedCombinations.has(combinationKey)) {
             clickedCombinations.add(combinationKey);
-            console.log(`Attempt: Clicking combination: ${combinationKey}`);
+            // add how many new things with how many attempts to the console
+            console.log(`Attempt: Clicking combination: ${combinationKey}. Attempts: ${attempts}. New Combinations: ${countNewCombinations}`);
 
             const isClickableA = await isElementClickable(itemA);
             const isClickableB = await isElementClickable(itemB);
@@ -115,6 +117,7 @@ async function clickNewItems(page, clickedCombinations, delayTimeMS = 200) {
                     await saveResultsToFile(results);
                     console.log(results)
                     results = [];
+                    countNewCombinations++;
                 }
             }
         }

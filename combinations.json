@@ -11828,5 +11828,103 @@
       "name": "Lost",
       "emoji": "🌲"
     }
+  },
+  {
+    "combinationA": {
+      "name": "Priest",
+      "emoji": "👼"
+    },
+    "combinationB": {
+      "name": "Cloud",
+      "emoji": "☁️"
+    },
+    "result": {
+      "name": "Polar Bear",
+      "emoji": "🐻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hades",
+      "emoji": "👹"
+    },
+    "combinationB": {
+      "name": "Thunder",
+      "emoji": "⛈️"
+    },
+    "result": {
+      "name": "Melting",
+      "emoji": "🧊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Satellite",
+      "emoji": "🛰"
+    },
+    "combinationB": {
+      "name": "Lava",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Moon",
+      "emoji": "🌙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rock",
+      "emoji": "🪨"
+    },
+    "combinationB": {
+      "name": "Slow",
+      "emoji": "🐢"
+    },
+    "result": {
+      "name": "Wifi",
+      "emoji": "📶"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dune",
+      "emoji": "🌵"
+    },
+    "combinationB": {
+      "name": "Big Bang",
+      "emoji": "💥"
+    },
+    "result": {
+      "name": "Palm",
+      "emoji": "🌴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Iceberg",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Pterodactyl",
+      "emoji": "🦖"
+    },
+    "result": {
+      "name": "Ice Dragon",
+      "emoji": "🐉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Thorn",
+      "emoji": "🌹"
+    },
+    "combinationB": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "result": {
+      "name": "Rose",
+      "emoji": "🌹"
+    }
   }
 ]

@@ -16616,5 +16616,2399 @@
       "name": "Kid",
       "emoji": "👶"
     }
+  },
+  {
+    "combinationA": {
+      "name": "Wave",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Glass",
+      "emoji": "🥃"
+    },
+    "result": {
+      "name": "Flat",
+      "emoji": "🌄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lens",
+      "emoji": "🔍"
+    },
+    "combinationB": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "result": {
+      "name": "Poseidon",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Electricity",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Tractor",
+      "emoji": "🚜"
+    },
+    "result": {
+      "name": "Kaleidoscope",
+      "emoji": "🔮"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Beach",
+      "emoji": "🏖"
+    },
+    "combinationB": {
+      "name": "Wiper",
+      "emoji": "🚿"
+    },
+    "result": {
+      "name": "Titanic",
+      "emoji": "🚢"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Galileo",
+      "emoji": "🌌"
+    },
+    "combinationB": {
+      "name": "Titanic",
+      "emoji": "🚢"
+    },
+    "result": {
+      "name": "Seapony",
+      "emoji": "🐬"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Iceberg",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Lava",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Flying Wiper",
+      "emoji": "✈️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Pirate",
+      "emoji": "🏴"
+    },
+    "combinationB": {
+      "name": "Lily",
+      "emoji": "🌸"
+    },
+    "result": {
+      "name": "Pirate Ship",
+      "emoji": "🏴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Unicorn",
+      "emoji": "🦄"
+    },
+    "combinationB": {
+      "name": "Peanut",
+      "emoji": "🥜"
+    },
+    "result": {
+      "name": "Green Titanic",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Electric Eel",
+      "emoji": "🦎"
+    },
+    "combinationB": {
+      "name": "Rocket",
+      "emoji": "🚀"
+    },
+    "result": {
+      "name": "Bojack",
+      "emoji": "🐴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Palm",
+      "emoji": "🌴"
+    },
+    "combinationB": {
+      "name": "Peanut",
+      "emoji": "🥜"
+    },
+    "result": {
+      "name": "Bee",
+      "emoji": "🐝"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Peanut",
+      "emoji": "🥜"
+    },
+    "combinationB": {
+      "name": "Iron Man",
+      "emoji": "🤖"
+    },
+    "result": {
+      "name": "Solar Tanker",
+      "emoji": "🛢"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Shark",
+      "emoji": "🦈"
+    },
+    "combinationB": {
+      "name": "Kaleidoscope",
+      "emoji": "🔮"
+    },
+    "result": {
+      "name": "Sun Roof",
+      "emoji": "🌞"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lightning",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "result": {
+      "name": "Aqua-vac",
+      "emoji": "💦"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lost",
+      "emoji": "🌲"
+    },
+    "combinationB": {
+      "name": "Solar Mirage",
+      "emoji": "🌞"
+    },
+    "result": {
+      "name": "Moonbutter",
+      "emoji": "🌙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Smoke",
+      "emoji": "💨"
+    },
+    "combinationB": {
+      "name": "Battery",
+      "emoji": "🔋"
+    },
+    "result": {
+      "name": "Electric Pirate",
+      "emoji": "🏴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Fireworks",
+      "emoji": "🎆"
+    },
+    "combinationB": {
+      "name": "Tsunami",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Moonbutter Golem",
+      "emoji": "🌕"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Unicorn",
+      "emoji": "🦄"
+    },
+    "combinationB": {
+      "name": "Plant",
+      "emoji": "🌱"
+    },
+    "result": {
+      "name": "Candy",
+      "emoji": "🍬"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sunroof",
+      "emoji": "🌞"
+    },
+    "combinationB": {
+      "name": "Frog",
+      "emoji": "🐸"
+    },
+    "result": {
+      "name": "Pineapple Upside Down Cake",
+      "emoji": "🍍"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tractor Zeus",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Snowman",
+      "emoji": "☃️"
+    },
+    "result": {
+      "name": "Ammonite",
+      "emoji": "🦕"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hole",
+      "emoji": "🕳"
+    },
+    "combinationB": {
+      "name": "Cloud",
+      "emoji": "☁️"
+    },
+    "result": {
+      "name": "Moon Plant",
+      "emoji": "🌕"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wiper",
+      "emoji": "🚿"
+    },
+    "combinationB": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Nether Pirate",
+      "emoji": "☠️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "combinationB": {
+      "name": "Stonehenge",
+      "emoji": "🗿"
+    },
+    "result": {
+      "name": "Fire Giant",
+      "emoji": "👹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Superflower",
+      "emoji": "🌸"
+    },
+    "combinationB": {
+      "name": "Solar Peanutosaurus",
+      "emoji": "🌞"
+    },
+    "result": {
+      "name": "Ironclad Tea",
+      "emoji": "🍵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Swamp Thing",
+      "emoji": "🐊"
+    },
+    "combinationB": {
+      "name": "Goldfish",
+      "emoji": "🐠"
+    },
+    "result": {
+      "name": "Catosaurus",
+      "emoji": "🐱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hubble",
+      "emoji": "🌌"
+    },
+    "combinationB": {
+      "name": "Sandwich",
+      "emoji": "🥪"
+    },
+    "result": {
+      "name": "Lunar Base",
+      "emoji": "🌕"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Green Titanic",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Sea Glass",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Wereplant",
+      "emoji": "🌱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dead Fish",
+      "emoji": "🐟"
+    },
+    "combinationB": {
+      "name": "Van Gogh",
+      "emoji": "🎨"
+    },
+    "result": {
+      "name": "Big Bang",
+      "emoji": "💥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Fireworks",
+      "emoji": "🎆"
+    },
+    "combinationB": {
+      "name": "Fishing",
+      "emoji": "🎣"
+    },
+    "result": {
+      "name": "Flat Coconut",
+      "emoji": "🥥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Nether Pirate",
+      "emoji": "☠️"
+    },
+    "combinationB": {
+      "name": "Rose",
+      "emoji": "🌹"
+    },
+    "result": {
+      "name": "Geothermal Power Plant",
+      "emoji": "🌋"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Steamroller",
+      "emoji": "🚂"
+    },
+    "combinationB": {
+      "name": "Moonjack",
+      "emoji": "🌕"
+    },
+    "result": {
+      "name": "Tractorosaurus",
+      "emoji": "🚜"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Poseidon",
+      "emoji": "🌊"
+    },
+    "combinationB": {
+      "name": "Black Hole",
+      "emoji": "🕳"
+    },
+    "result": {
+      "name": "Kraken",
+      "emoji": "🐙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Oil Spill",
+      "emoji": "💦"
+    },
+    "combinationB": {
+      "name": "Santa Claus",
+      "emoji": "🎅"
+    },
+    "result": {
+      "name": "Pony",
+      "emoji": "🐴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dino",
+      "emoji": "🦖"
+    },
+    "combinationB": {
+      "name": "Tesla",
+      "emoji": "🚗"
+    },
+    "result": {
+      "name": "Croc-pot",
+      "emoji": "🐊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Temple",
+      "emoji": "🏯"
+    },
+    "combinationB": {
+      "name": "Cruise",
+      "emoji": "🚢"
+    },
+    "result": {
+      "name": "Chicken Tractor",
+      "emoji": "🐔"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "E.t.",
+      "emoji": "👽"
+    },
+    "combinationB": {
+      "name": "Nut",
+      "emoji": "🥜"
+    },
+    "result": {
+      "name": "Solar Reef",
+      "emoji": "🌞"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "combinationB": {
+      "name": "Candy",
+      "emoji": "🍬"
+    },
+    "result": {
+      "name": "Bat-force One",
+      "emoji": "🦇"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Loch Ness Monster",
+      "emoji": "🐊"
+    },
+    "combinationB": {
+      "name": "Sphinx",
+      "emoji": "🐫"
+    },
+    "result": {
+      "name": "Cthulhu",
+      "emoji": "🐙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Mr. Moonpirate",
+      "emoji": "🌙"
+    },
+    "combinationB": {
+      "name": "Pottery",
+      "emoji": "🏺"
+    },
+    "result": {
+      "name": "Monkey",
+      "emoji": "🐒"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Treehouse",
+      "emoji": "🏠"
+    },
+    "combinationB": {
+      "name": "Surfhenge",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Super Solar Croc",
+      "emoji": "🐊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "New York",
+      "emoji": "🗽"
+    },
+    "combinationB": {
+      "name": "Locomotive",
+      "emoji": "🚂"
+    },
+    "result": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Bitcoin",
+      "emoji": "💸"
+    },
+    "combinationB": {
+      "name": "Tomb",
+      "emoji": "🪦"
+    },
+    "result": {
+      "name": "Cobra Commander",
+      "emoji": "🐍"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hawaii",
+      "emoji": "🌺"
+    },
+    "combinationB": {
+      "name": "Tsunami",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Space Cowboy",
+      "emoji": "🤠"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Piña Colada",
+      "emoji": "🍹"
+    },
+    "combinationB": {
+      "name": "Bat-saur",
+      "emoji": "🦇"
+    },
+    "result": {
+      "name": "Venusaur",
+      "emoji": "🌱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Map",
+      "emoji": "🗺"
+    },
+    "combinationB": {
+      "name": "Crop",
+      "emoji": "🌾"
+    },
+    "result": {
+      "name": "Bat-saur-us",
+      "emoji": "🦇"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "History",
+      "emoji": "📜"
+    },
+    "combinationB": {
+      "name": "Moai",
+      "emoji": "🗿"
+    },
+    "result": {
+      "name": "Flying Peanut Butter And Jelly",
+      "emoji": "🚀"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Flying Wiper",
+      "emoji": "✈️"
+    },
+    "combinationB": {
+      "name": "Pineapple Upside Down Cake",
+      "emoji": "🍍"
+    },
+    "result": {
+      "name": "Time Tractorosaurus",
+      "emoji": "⏰\ud83e"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Electric Siren",
+      "emoji": "🔊"
+    },
+    "combinationB": {
+      "name": "Space Bee",
+      "emoji": "🐝"
+    },
+    "result": {
+      "name": "Flying Pineapple Upside Down Cake",
+      "emoji": "🍍"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Steamroller",
+      "emoji": "🚂"
+    },
+    "combinationB": {
+      "name": "Toph",
+      "emoji": "👊"
+    },
+    "result": {
+      "name": "Santa Tank",
+      "emoji": "🎅"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tiki",
+      "emoji": "🌴"
+    },
+    "combinationB": {
+      "name": "Butter",
+      "emoji": "🧈"
+    },
+    "result": {
+      "name": "Robot Surfhenge",
+      "emoji": "🤖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Vroom",
+      "emoji": "🚗"
+    },
+    "combinationB": {
+      "name": "Christmas Apoclipse",
+      "emoji": "🎄"
+    },
+    "result": {
+      "name": "Farmville 5",
+      "emoji": "🐮"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "ime Pirate",
+      "emoji": "⏰"
+    },
+    "combinationB": {
+      "name": "3D Glasses",
+      "emoji": "🕶"
+    },
+    "result": {
+      "name": "Supernova",
+      "emoji": "🌠"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Captain America Surfhenge",
+      "emoji": "🛡"
+    },
+    "combinationB": {
+      "name": "Super Apoclipsclaus",
+      "emoji": "🦸"
+    },
+    "result": {
+      "name": "Chicken Jack",
+      "emoji": "🐔"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Salmonella",
+      "emoji": "🍗"
+    },
+    "combinationB": {
+      "name": "Peanutbutter",
+      "emoji": "🥜"
+    },
+    "result": {
+      "name": "Sun Boat",
+      "emoji": "🛳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Astronomer",
+      "emoji": "🔭"
+    },
+    "combinationB": {
+      "name": "Farmville 2",
+      "emoji": "🐮"
+    },
+    "result": {
+      "name": "Yoda",
+      "emoji": "👽"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Yeti",
+      "emoji": "🧊"
+    },
+    "combinationB": {
+      "name": "Zombie",
+      "emoji": "🧟"
+    },
+    "result": {
+      "name": "Abominable Snowman",
+      "emoji": "🐻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dinosaur",
+      "emoji": "🦖"
+    },
+    "combinationB": {
+      "name": "Green Energy",
+      "emoji": "🌱"
+    },
+    "result": {
+      "name": "Fartasaurus",
+      "emoji": "💨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Cook",
+      "emoji": "🍳"
+    },
+    "combinationB": {
+      "name": "Space Shark",
+      "emoji": "🦈"
+    },
+    "result": {
+      "name": "Mr. Peanut Butter And Jelly",
+      "emoji": "🥪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Captain America",
+      "emoji": "🦅"
+    },
+    "combinationB": {
+      "name": "Nether Portal Cake",
+      "emoji": "🍰"
+    },
+    "result": {
+      "name": "Iron Dory",
+      "emoji": "🛡"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Moon Car",
+      "emoji": "🌙"
+    },
+    "combinationB": {
+      "name": "Vacation",
+      "emoji": "🏖"
+    },
+    "result": {
+      "name": "Flash Gordon",
+      "emoji": "⚡️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Cleaning Tikihenge",
+      "emoji": "🧹"
+    },
+    "combinationB": {
+      "name": "Space Eel",
+      "emoji": "🐍"
+    },
+    "result": {
+      "name": "Oil Slick",
+      "emoji": "🛢"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Global Warming",
+      "emoji": "🌡"
+    },
+    "combinationB": {
+      "name": "Submarine",
+      "emoji": "🚤"
+    },
+    "result": {
+      "name": "Submerged",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Plow",
+      "emoji": "🚜"
+    },
+    "combinationB": {
+      "name": "Tractorosaurus",
+      "emoji": "🚜"
+    },
+    "result": {
+      "name": "Dory Bar NYC",
+      "emoji": "🍸"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rich Cat",
+      "emoji": "😻"
+    },
+    "combinationB": {
+      "name": "Food",
+      "emoji": "🍕"
+    },
+    "result": {
+      "name": "Space Captain",
+      "emoji": "👨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dream",
+      "emoji": "💭"
+    },
+    "combinationB": {
+      "name": "Batman",
+      "emoji": "🦇"
+    },
+    "result": {
+      "name": "Nightmare",
+      "emoji": "😱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dory Bar",
+      "emoji": "🍫"
+    },
+    "combinationB": {
+      "name": "Central Park",
+      "emoji": "🌳"
+    },
+    "result": {
+      "name": "Mr. Jackfish",
+      "emoji": "🐟"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Silver Titanic",
+      "emoji": "🛳"
+    },
+    "combinationB": {
+      "name": "Supernova",
+      "emoji": "🌠"
+    },
+    "result": {
+      "name": "Space Parrot Sundae",
+      "emoji": "🚀"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hawkfish",
+      "emoji": "🐟"
+    },
+    "combinationB": {
+      "name": "Beekeeper",
+      "emoji": "🐝"
+    },
+    "result": {
+      "name": "Chicken Of The Nether",
+      "emoji": "🐔"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dark Matter",
+      "emoji": "🌌"
+    },
+    "combinationB": {
+      "name": "Flapjackosaurus Rex",
+      "emoji": "🦕"
+    },
+    "result": {
+      "name": "Tin Fossil",
+      "emoji": "🦕"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Telescope",
+      "emoji": "🔭"
+    },
+    "combinationB": {
+      "name": "Steam Man",
+      "emoji": "💦"
+    },
+    "result": {
+      "name": "Gungan",
+      "emoji": "🐸"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Smoke",
+      "emoji": "💨"
+    },
+    "combinationB": {
+      "name": "Tuxedo",
+      "emoji": "🎩"
+    },
+    "result": {
+      "name": "Smoking",
+      "emoji": "🚬"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "combinationB": {
+      "name": "Elephant",
+      "emoji": "🐘"
+    },
+    "result": {
+      "name": "Chicken Nugget",
+      "emoji": "🍗"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dust",
+      "emoji": "🌫"
+    },
+    "combinationB": {
+      "name": "Money",
+      "emoji": "💵"
+    },
+    "result": {
+      "name": "Cleaning",
+      "emoji": "🧹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "combinationB": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "result": {
+      "name": "Hot Tea",
+      "emoji": "🍵"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Silver Surfer",
+      "emoji": "🏄"
+    },
+    "combinationB": {
+      "name": "King Tut",
+      "emoji": "👑"
+    },
+    "result": {
+      "name": "Moonbutter Donut",
+      "emoji": "🌙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Zeus Burger",
+      "emoji": "🍔"
+    },
+    "combinationB": {
+      "name": "Supernova",
+      "emoji": "🌠"
+    },
+    "result": {
+      "name": "Pua",
+      "emoji": "🐖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hercules",
+      "emoji": "🏹"
+    },
+    "combinationB": {
+      "name": "Superposition",
+      "emoji": "⚛️"
+    },
+    "result": {
+      "name": "Flying Pineapple Burger",
+      "emoji": "🍔"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Food",
+      "emoji": "🍕"
+    },
+    "combinationB": {
+      "name": "Tutankhamun",
+      "emoji": "👑"
+    },
+    "result": {
+      "name": "Ra",
+      "emoji": "🌞"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Obsidian",
+      "emoji": "🔪"
+    },
+    "combinationB": {
+      "name": "Monster",
+      "emoji": "👾"
+    },
+    "result": {
+      "name": "Creeper",
+      "emoji": "💣"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Time Dory",
+      "emoji": "⏰\ud83d"
+    },
+    "combinationB": {
+      "name": "Electric Captain",
+      "emoji": "⚡️"
+    },
+    "result": {
+      "name": "Fire Peanutosaurus",
+      "emoji": "🔥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Iron Throne",
+      "emoji": "👑"
+    },
+    "combinationB": {
+      "name": "Ironman",
+      "emoji": "💥"
+    },
+    "result": {
+      "name": "Ironman Throne",
+      "emoji": "💺"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Diamond",
+      "emoji": "💎"
+    },
+    "combinationB": {
+      "name": "Giant",
+      "emoji": "🐘"
+    },
+    "result": {
+      "name": "Saganmobile",
+      "emoji": "🚗"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tin Sushi",
+      "emoji": "🍣"
+    },
+    "combinationB": {
+      "name": "Moon Tea",
+      "emoji": "🌙"
+    },
+    "result": {
+      "name": "Deviled Burger",
+      "emoji": "🍔"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Zeus",
+      "emoji": "⚡️"
+    },
+    "combinationB": {
+      "name": "Hell",
+      "emoji": "👿"
+    },
+    "result": {
+      "name": "Hades",
+      "emoji": "👹"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Supernova",
+      "emoji": "🌠"
+    },
+    "combinationB": {
+      "name": "Cloud",
+      "emoji": "☁️"
+    },
+    "result": {
+      "name": "Solar Valkyrie",
+      "emoji": "☀️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dinosaur",
+      "emoji": "🦖"
+    },
+    "combinationB": {
+      "name": "Sea",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Plesiosaur",
+      "emoji": "🦕"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Destruction",
+      "emoji": "💥"
+    },
+    "combinationB": {
+      "name": "Darkness",
+      "emoji": "🌚"
+    },
+    "result": {
+      "name": "Chaos",
+      "emoji": "💥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Eruption",
+      "emoji": "🌋"
+    },
+    "combinationB": {
+      "name": "Water",
+      "emoji": "💧"
+    },
+    "result": {
+      "name": "Beach",
+      "emoji": "🏖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sand",
+      "emoji": "🏖"
+    },
+    "combinationB": {
+      "name": "Pollen",
+      "emoji": "🌱"
+    },
+    "result": {
+      "name": "Bee",
+      "emoji": "🐝"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Breeze",
+      "emoji": "💨"
+    },
+    "combinationB": {
+      "name": "Flying",
+      "emoji": "✈️"
+    },
+    "result": {
+      "name": "Coconut",
+      "emoji": "🥥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Plutonium",
+      "emoji": "💣"
+    },
+    "combinationB": {
+      "name": "Coconut",
+      "emoji": "🥥"
+    },
+    "result": {
+      "name": "Beekeeper",
+      "emoji": "🐝"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hurricane",
+      "emoji": "🌀"
+    },
+    "combinationB": {
+      "name": "Rain",
+      "emoji": "🌧"
+    },
+    "result": {
+      "name": "Steamboat",
+      "emoji": "🛳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Coconut Milk",
+      "emoji": "🥥"
+    },
+    "combinationB": {
+      "name": "Rebirth",
+      "emoji": "🌱"
+    },
+    "result": {
+      "name": "Coconut Cannon",
+      "emoji": "🥥"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Meade",
+      "emoji": "🌌"
+    },
+    "combinationB": {
+      "name": "Allergy",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "House Of Wisdom",
+      "emoji": "📚"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Castle",
+      "emoji": "🏰"
+    },
+    "result": {
+      "name": "Garden",
+      "emoji": "🌱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Urine",
+      "emoji": "💦"
+    },
+    "combinationB": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "result": {
+      "name": "Golem Surfer",
+      "emoji": "🏄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Pottery",
+      "emoji": "🏺"
+    },
+    "combinationB": {
+      "name": "Computer",
+      "emoji": "💻"
+    },
+    "result": {
+      "name": "House Of Orange",
+      "emoji": "🍊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sunday",
+      "emoji": "⛪️"
+    },
+    "combinationB": {
+      "name": "Wood",
+      "emoji": "🌲"
+    },
+    "result": {
+      "name": "UFO",
+      "emoji": "🛸"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Scarecrow",
+      "emoji": "🎃"
+    },
+    "combinationB": {
+      "name": "Sleeping",
+      "emoji": "😴"
+    },
+    "result": {
+      "name": "Jack Sparrow",
+      "emoji": "☠️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Glass",
+      "emoji": "🥃"
+    },
+    "combinationB": {
+      "name": "Genie",
+      "emoji": "🧞"
+    },
+    "result": {
+      "name": "Cersei Lannister",
+      "emoji": "👑"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Magic",
+      "emoji": "🧙"
+    },
+    "combinationB": {
+      "name": "Meteor",
+      "emoji": "💫"
+    },
+    "result": {
+      "name": "Science",
+      "emoji": "🔬"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Cataclysm",
+      "emoji": "🌋"
+    },
+    "combinationB": {
+      "name": "Nuclear Waste",
+      "emoji": "☢️"
+    },
+    "result": {
+      "name": "Surfing Knight",
+      "emoji": "🏄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dust",
+      "emoji": "🌫"
+    },
+    "combinationB": {
+      "name": "Titan",
+      "emoji": "🌎"
+    },
+    "result": {
+      "name": "Game Of Thrones",
+      "emoji": "🐉"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Robin Hood",
+      "emoji": "🏹"
+    },
+    "combinationB": {
+      "name": "Wizard",
+      "emoji": "🧙"
+    },
+    "result": {
+      "name": "Merlin",
+      "emoji": "🧙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Divorce",
+      "emoji": "💔"
+    },
+    "combinationB": {
+      "name": "Geyser",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Starbucks",
+      "emoji": "☕️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Mist",
+      "emoji": "🌫"
+    },
+    "combinationB": {
+      "name": "Eruption",
+      "emoji": "🌋"
+    },
+    "result": {
+      "name": "Steam Zombie",
+      "emoji": "🧟"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dove",
+      "emoji": "🕊"
+    },
+    "combinationB": {
+      "name": "Wereparrot",
+      "emoji": "🦜"
+    },
+    "result": {
+      "name": "Jon Snow",
+      "emoji": "❄️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Party",
+      "emoji": "🎉"
+    },
+    "combinationB": {
+      "name": "Snore",
+      "emoji": "💤"
+    },
+    "result": {
+      "name": "Dark Steam Monster",
+      "emoji": "🦾"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "EpiPen",
+      "emoji": "💉"
+    },
+    "combinationB": {
+      "name": "Library",
+      "emoji": "📚"
+    },
+    "result": {
+      "name": "Wall",
+      "emoji": "🧱"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Zombicorn",
+      "emoji": "🦄"
+    },
+    "combinationB": {
+      "name": "Giraffe",
+      "emoji": "🦒"
+    },
+    "result": {
+      "name": "Dark Pegasus",
+      "emoji": "🦄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Comet",
+      "emoji": "🌌"
+    },
+    "combinationB": {
+      "name": "Rings",
+      "emoji": "💍"
+    },
+    "result": {
+      "name": "Steam Golem",
+      "emoji": "🤖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Meteor",
+      "emoji": "💫"
+    },
+    "combinationB": {
+      "name": "Whirlpool",
+      "emoji": "🌀"
+    },
+    "result": {
+      "name": "Cersai Lannister",
+      "emoji": "👑"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Camel",
+      "emoji": "🐪"
+    },
+    "combinationB": {
+      "name": "Tornado",
+      "emoji": "🌪"
+    },
+    "result": {
+      "name": "Insomnia",
+      "emoji": "😴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Scorpio",
+      "emoji": "♏️"
+    },
+    "combinationB": {
+      "name": "Thorn",
+      "emoji": "🌹"
+    },
+    "result": {
+      "name": "Cool",
+      "emoji": "😎"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Wish",
+      "emoji": "🌠"
+    },
+    "combinationB": {
+      "name": "Dark Pegasus",
+      "emoji": "🦄"
+    },
+    "result": {
+      "name": "Princess",
+      "emoji": "👸"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "combinationB": {
+      "name": "Honey Pot",
+      "emoji": "🍯"
+    },
+    "result": {
+      "name": "Pi",
+      "emoji": "🥧"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Death",
+      "emoji": "💀"
+    },
+    "combinationB": {
+      "name": "Sneezosaurus",
+      "emoji": "🤧"
+    },
+    "result": {
+      "name": "Huckleberry Finn",
+      "emoji": "🐻"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Cheshire Cat",
+      "emoji": "😺"
+    },
+    "combinationB": {
+      "name": "Noah",
+      "emoji": "🐘"
+    },
+    "result": {
+      "name": "Tiki Man",
+      "emoji": "🏝"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Fool",
+      "emoji": "👑"
+    },
+    "combinationB": {
+      "name": "Omelette",
+      "emoji": "🍳"
+    },
+    "result": {
+      "name": "Dark Philosoraptor",
+      "emoji": "🦖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Peter Pan",
+      "emoji": "🌳"
+    },
+    "combinationB": {
+      "name": "Nuclear",
+      "emoji": "☢️"
+    },
+    "result": {
+      "name": "Mudspell",
+      "emoji": "💩"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Pork",
+      "emoji": "🐷"
+    },
+    "combinationB": {
+      "name": "Minotaur",
+      "emoji": "🐃"
+    },
+    "result": {
+      "name": "Pirate Ship Of Drunkenness",
+      "emoji": "🏴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Jack Sparrow",
+      "emoji": "☠️"
+    },
+    "combinationB": {
+      "name": "Kite",
+      "emoji": "🪁"
+    },
+    "result": {
+      "name": "Steam Kraken",
+      "emoji": "🐙"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Whirlpool",
+      "emoji": "🌀"
+    },
+    "combinationB": {
+      "name": "Reef",
+      "emoji": "🐠"
+    },
+    "result": {
+      "name": "Backbone",
+      "emoji": "🦴"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Flying Pig",
+      "emoji": "🐷"
+    },
+    "combinationB": {
+      "name": "Spine",
+      "emoji": "🦴"
+    },
+    "result": {
+      "name": "Thanksgiving",
+      "emoji": "🦃"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Pteranodon",
+      "emoji": "🦖"
+    },
+    "combinationB": {
+      "name": "Zombie Tarzan",
+      "emoji": "🐒"
+    },
+    "result": {
+      "name": "Rainbow Coral",
+      "emoji": "🌈"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Atlas",
+      "emoji": "🌍"
+    },
+    "combinationB": {
+      "name": "Broom",
+      "emoji": "🧹"
+    },
+    "result": {
+      "name": "Leaf",
+      "emoji": "🍃"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dyson",
+      "emoji": "🧹"
+    },
+    "combinationB": {
+      "name": "Malaria",
+      "emoji": "🦟"
+    },
+    "result": {
+      "name": "Countess",
+      "emoji": "👑"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hole",
+      "emoji": "🕳"
+    },
+    "combinationB": {
+      "name": "Palmcomedy",
+      "emoji": "🌴"
+    },
+    "result": {
+      "name": "Paladin",
+      "emoji": "🛡"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Shadow",
+      "emoji": "👻"
+    },
+    "combinationB": {
+      "name": "Saturn",
+      "emoji": "🪐"
+    },
+    "result": {
+      "name": "Punchline",
+      "emoji": "😜"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Spell",
+      "emoji": "🔮"
+    },
+    "combinationB": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Scorbot",
+      "emoji": "🤖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Goldfinger",
+      "emoji": "💍"
+    },
+    "combinationB": {
+      "name": "Polly",
+      "emoji": "🐦"
+    },
+    "result": {
+      "name": "Nuclear Reactor",
+      "emoji": "☢️"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Lie",
+      "emoji": "🤥"
+    },
+    "combinationB": {
+      "name": "Sand Castle",
+      "emoji": "🏰"
+    },
+    "result": {
+      "name": "Dark Pineapple",
+      "emoji": "🍍"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Jungle",
+      "emoji": "🌴"
+    },
+    "combinationB": {
+      "name": "Strawberry Shortcake",
+      "emoji": "🍓"
+    },
+    "result": {
+      "name": "Dark Horse Comics",
+      "emoji": "🐎"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Pope",
+      "emoji": "🕍"
+    },
+    "combinationB": {
+      "name": "Snake",
+      "emoji": "🐍"
+    },
+    "result": {
+      "name": "St. Patrick",
+      "emoji": "🍀"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Beer",
+      "emoji": "🍺"
+    },
+    "combinationB": {
+      "name": "Pineasaurus",
+      "emoji": "🦖"
+    },
+    "result": {
+      "name": "Zombunny",
+      "emoji": "🐰"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Mushroom",
+      "emoji": "🍄"
+    },
+    "combinationB": {
+      "name": "Nuclear Waste",
+      "emoji": "☢️"
+    },
+    "result": {
+      "name": "Ragnarok",
+      "emoji": "🌩"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Werebee",
+      "emoji": "🐺"
+    },
+    "combinationB": {
+      "name": "Dark Mummy",
+      "emoji": "🧟"
+    },
+    "result": {
+      "name": "Poetry Slam",
+      "emoji": "🎤"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "combinationB": {
+      "name": "Neptune",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Hot Tub",
+      "emoji": "🛁"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Zombicorn",
+      "emoji": "🦄"
+    },
+    "combinationB": {
+      "name": "Werecomputer",
+      "emoji": "👾"
+    },
+    "result": {
+      "name": "Aquarium",
+      "emoji": "🐠"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Glass Slipper",
+      "emoji": "👠"
+    },
+    "combinationB": {
+      "name": "Smoke",
+      "emoji": "💨"
+    },
+    "result": {
+      "name": "Chocolate Tiamat",
+      "emoji": "🍫"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "combinationB": {
+      "name": "Fog",
+      "emoji": "🌫"
+    },
+    "result": {
+      "name": "Mudomelette",
+      "emoji": "🍳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Crab",
+      "emoji": "🦀"
+    },
+    "combinationB": {
+      "name": "Spine",
+      "emoji": "🦴"
+    },
+    "result": {
+      "name": "Tiger Shark",
+      "emoji": "🐯"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Mushroom",
+      "emoji": "🍄"
+    },
+    "combinationB": {
+      "name": "Venus",
+      "emoji": "♀️"
+    },
+    "result": {
+      "name": "Fungi",
+      "emoji": "🍄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Rave",
+      "emoji": "💃"
+    },
+    "combinationB": {
+      "name": "Smile",
+      "emoji": "😊"
+    },
+    "result": {
+      "name": "Swamp Thing",
+      "emoji": "🐊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Fallout",
+      "emoji": "💣"
+    },
+    "combinationB": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Mudhall",
+      "emoji": "🏰"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Sandman",
+      "emoji": "🏖"
+    },
+    "combinationB": {
+      "name": "Steampunk",
+      "emoji": "🕯"
+    },
+    "result": {
+      "name": "Sandpunk",
+      "emoji": "🏖"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Teapot",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Sailing",
+      "emoji": "⛵️"
+    },
+    "result": {
+      "name": "Radiated Treecko",
+      "emoji": "🌿"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Cup",
+      "emoji": "🍶"
+    },
+    "combinationB": {
+      "name": "Wednesday",
+      "emoji": "🌚"
+    },
+    "result": {
+      "name": "Nuclear Siren",
+      "emoji": "🚨"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Whirlpool",
+      "emoji": "🌀"
+    },
+    "combinationB": {
+      "name": "Owl",
+      "emoji": "🦉"
+    },
+    "result": {
+      "name": "Mime",
+      "emoji": "🤐"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Plant",
+      "emoji": "🌱"
+    },
+    "combinationB": {
+      "name": "Star Wars",
+      "emoji": "🌌"
+    },
+    "result": {
+      "name": "Yoda",
+      "emoji": "👽"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Charcoal",
+      "emoji": "🍖"
+    },
+    "combinationB": {
+      "name": "New Uranus",
+      "emoji": "🪐"
+    },
+    "result": {
+      "name": "Zombie Venusaur",
+      "emoji": "🌌"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Piggy Bank",
+      "emoji": "💰"
+    },
+    "combinationB": {
+      "name": "Zombie Computer",
+      "emoji": "🧟"
+    },
+    "result": {
+      "name": "Seaweed",
+      "emoji": "🌊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Nuclear Waste",
+      "emoji": "☢️"
+    },
+    "combinationB": {
+      "name": "Storm",
+      "emoji": "⛈️"
+    },
+    "result": {
+      "name": "Stephen Currypirate",
+      "emoji": "🏀"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Backbone",
+      "emoji": "🦴"
+    },
+    "combinationB": {
+      "name": "Surf",
+      "emoji": "🏄"
+    },
+    "result": {
+      "name": "Dutch Royal Wedding",
+      "emoji": "👑"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "House",
+      "emoji": "🏠"
+    },
+    "combinationB": {
+      "name": "Van Damme",
+      "emoji": "👊"
+    },
+    "result": {
+      "name": "Sun Surfer",
+      "emoji": "🏄"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Comedy",
+      "emoji": "😂"
+    },
+    "combinationB": {
+      "name": "DNA",
+      "emoji": "🧬"
+    },
+    "result": {
+      "name": "Meme",
+      "emoji": "😂"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Buddha",
+      "emoji": "🧘"
+    },
+    "combinationB": {
+      "name": "Thunder",
+      "emoji": "⛈️"
+    },
+    "result": {
+      "name": "Enlightenment",
+      "emoji": "💡"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Dream",
+      "emoji": "💭"
+    },
+    "combinationB": {
+      "name": "Witch Doctor",
+      "emoji": "🧙"
+    },
+    "result": {
+      "name": "LeBron James",
+      "emoji": "👑"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hay",
+      "emoji": "🌾"
+    },
+    "combinationB": {
+      "name": "House",
+      "emoji": "🏠"
+    },
+    "result": {
+      "name": "Barn",
+      "emoji": "🐂"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Plant",
+      "emoji": "🌱"
+    },
+    "combinationB": {
+      "name": "Sandpunk",
+      "emoji": "🏖"
+    },
+    "result": {
+      "name": "Sharktopus Vs. Pteracuda 2",
+      "emoji": "🐊"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Poison Ivy",
+      "emoji": "🌿"
+    },
+    "combinationB": {
+      "name": "Iceberg",
+      "emoji": "🌊"
+    },
+    "result": {
+      "name": "Coco Zombie",
+      "emoji": "💀"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Curse",
+      "emoji": "😈"
+    },
+    "combinationB": {
+      "name": "Moai",
+      "emoji": "🗿"
+    },
+    "result": {
+      "name": "Hot Pie-sgiving",
+      "emoji": "🥧"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Jedi",
+      "emoji": "🤺"
+    },
+    "combinationB": {
+      "name": "Shakespeare",
+      "emoji": "📜"
+    },
+    "result": {
+      "name": "Glowing Pan",
+      "emoji": "🌟"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Easter Egg",
+      "emoji": "🥚"
+    },
+    "combinationB": {
+      "name": "Zombie Hunter",
+      "emoji": "🧟"
+    },
+    "result": {
+      "name": "Sharknado",
+      "emoji": "🌪"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Reef",
+      "emoji": "🐠"
+    },
+    "combinationB": {
+      "name": "Island",
+      "emoji": "🏝"
+    },
+    "result": {
+      "name": "Atoll",
+      "emoji": "🏝"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "007",
+      "emoji": "🕵"
+    },
+    "combinationB": {
+      "name": "Priest",
+      "emoji": "👼"
+    },
+    "result": {
+      "name": "Dionysus",
+      "emoji": "🍷"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Snotlboy",
+      "emoji": "🤢"
+    },
+    "combinationB": {
+      "name": "Zombie Tiamat",
+      "emoji": "🧟"
+    },
+    "result": {
+      "name": "Eggsurfing",
+      "emoji": "🍳"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "combinationB": {
+      "name": "Beer",
+      "emoji": "🍺"
+    },
+    "result": {
+      "name": "Shandy",
+      "emoji": "🍺"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Hack",
+      "emoji": "🔨"
+    },
+    "combinationB": {
+      "name": "Dad Kraken",
+      "emoji": "🦑"
+    },
+    "result": {
+      "name": "Snot Snow",
+      "emoji": "🤧"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Zombie Hunter",
+      "emoji": "🧟"
+    },
+    "combinationB": {
+      "name": "Abominable Palm",
+      "emoji": "🌴"
+    },
+    "result": {
+      "name": "Toadally Dark",
+      "emoji": "🐸"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Radioactive Bear",
+      "emoji": "🐻"
+    },
+    "combinationB": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "result": {
+      "name": "Radiated Barn",
+      "emoji": "🏚"
+    }
+  },
+  {
+    "combinationA": {
+      "name": "Squid",
+      "emoji": "🦑"
+    },
+    "combinationB": {
+      "name": "Moisture",
+      "emoji": "💦"
+    },
+    "result": {
+      "name": "Squidward",
+      "emoji": "🦑"
+    }
   }
 ]
